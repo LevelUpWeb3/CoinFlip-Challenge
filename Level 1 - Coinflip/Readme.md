@@ -11,7 +11,7 @@ Hey there! Welcome to Level 1. We're kicking things off with a simple Coinflip g
 
 ## Game Plan
 
-1. Set up the contract:
+1. Set up the contract in `src/CoinFlip.sol`:
    - Use the latest Solidity version
    - Define a minimum bet amount
 
